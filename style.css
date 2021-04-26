@@ -1,0 +1,85 @@
+* {
+  margin: 0%;
+}
+
+.icons img {
+  height: 30px;
+  width: 30px;
+}
+.card {
+  display: flex;
+  border: 1px solid black;
+  margin-top: 5%;
+  padding-left: 1%;
+  justify-content: space-between;
+  height: 15%;
+}
+
+.card1 {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card2 {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card3 {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.icons {
+  border: 1px solid black;
+  padding-left: 20%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbarre {
+  background-color: blueviolet;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.navbarre a {
+  padding-left: 5%;
+}
+.navbarre2 {
+  float: right;
+  margin-right: 8%;
+  display: flex;
+}
+
+.chariot {
+  height: 50px;
+  width: 50px;
+}
+
+.totalprice {
+  border: 1px solid black;
+  height: 30px;
+  width: 60px;
+  margin-left: 16%;
+  margin-top: 1%;
+}
+.logoprice {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+  margin-top: 4%;
+}
+
+.entetecard {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid black;
+  margin-bottom: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: grey;
+}
